@@ -7,7 +7,6 @@
 					Lorem ipsum dolor sit amet, consectetur adipisicing elit. Suscipit nostrum rerum animi natus beatae ex. Culpa blanditiis tempore amet alias placeat, obcaecati quaerat ullam, sunt est, odio aut veniam ratione.
 				</p>
 			</div>
-
 			<!-- Content -->
 			<div class="full-box tile-container">
 				<a href="<?php echo SERVERURL; ?>cliente-new/" class="tile">
@@ -65,4 +64,4 @@
 						<p>1 Registrada</p>
 					</div>
 				</a>
-			</div>
+	</div>

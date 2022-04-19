@@ -1,5 +1,5 @@
 <?php
-    const SERVERURL="http://localhost/Money/";
+    const SERVERURL="http://localhost/FinanzasV00/";
 
     const COMPANY="SYSTEM MONEY";
 
